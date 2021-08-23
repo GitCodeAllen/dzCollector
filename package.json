@@ -1,0 +1,20 @@
+{
+  "name": "dzCollector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloomfilter": "0.0.18",
+    "clear-module": "^4.0.0",
+    "encoding": "^0.1.12",
+    "jsqr": "^1.2.0",
+    "mv": "^2.1.1",
+    "pngjs": "^3.4.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}

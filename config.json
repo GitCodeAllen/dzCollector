@@ -1,0 +1,11 @@
+{
+    "user":"test",
+    "password":"test",
+    "home":"https://www.google.com/",
+    "index":"https://www.google.com/",
+    "fidAnnouncement":"53",
+    "gid":[40,181,183],
+    "fidHistory":"212",
+    "serverPort":8888,
+    "downloadPath":"/root/browserDownload/"
+}
